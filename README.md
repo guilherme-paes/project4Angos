@@ -6,4 +6,4 @@ The project contains no back-end development. The technologies used are HTML5, S
 To summarize the intent of this project, it is a web blog delivering information regarding maternity support in Brazil. It describes the conditions necessary to receive the support, according to the brazilian laws of work. 
 In addition to that, the webpage contains a chat-bot for guided support via a simulated WhatsApp chat.
 
-This project is compliant with the Sass #CommunityGuidelines, as well as with the JQuery's #TOS. 💡😁 
+This project is compliant with Sass #CommunityGuidelines, as well as with JQuery's #TOS. 💡😁 
